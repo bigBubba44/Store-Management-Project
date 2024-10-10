@@ -17,8 +17,10 @@ Use your knowledge of object-oriented programming and class structure and design
 
 Put and image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here.
 
-![UML Diagram for my project](nameOfImageFileHere.png)
+![UML Diagram for my project](nameOfImageFileHere.png) ![alt text](image.png)
 
 ## Description
 
 Write a description of your project here. Include what your store you made, and why you chose this topic. In your description, include as many vocab words from our class to explain how you represented the item/service from your store. If you have user input, explain how the user will interact with your store such as which questions are prompted to the user, what response is your program expecting, and how that is use to output information for your store in the console.
+
+During the brainstorming phase of the project I really only focused on one thing and one thing only. I thought of something similar to a Lego Store but cheap and easier to do. For example, Hot wheels. Small, cheap toys. I chose this topic because I collect Hot Wheels in my free time, so not a whole lot of extra research was necessary. I used a string to define what I wanted, or like the products name and used integers and doubles to describe how many a customer would want and what the prices were like. So far, I do not have user input, but may implement it in the future.
