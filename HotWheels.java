@@ -24,6 +24,6 @@ public class HotWheels extends ToyCars{
     return group;
   }
   public String toString(){
-    return  brand +  " is such a great choice!";
+    return  brand +  " is such a phenomenal choice!";
   }
 }
